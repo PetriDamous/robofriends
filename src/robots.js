@@ -1,39 +1,39 @@
 export const robots = [
   {
     id: 1,
-    name: 'Leanne Graham',
-    username: 'Bret',
-    email: 'Sincere@april.biz'
+    name: 'Chris Redfield',
+    username: 'my_mistake',
+    email: 'chris@starsBravo.net'
   },
   {
     id: 2,
-    name: 'Ervin Howell',
-    username: 'Antonette',
-    email: 'Shanna@melissa.tv'
+    name: 'Jill Valentine',
+    username: 'jillV',
+    email: 'jillV@starsBravo.tv'
   },
   {
     id: 3,
-    name: 'Clementine Bauch',
-    username: 'Samantha',
-    email: 'Nathan@yesenia.net'
+    name: 'Leon S. Kennedy',
+    username: 'Leon2ken',
+    email: 'LeonS@RPD.gov'
   },
   {
     id: 4,
-    name: 'Patricia Lebsack',
-    username: 'Karianne',
-    email: 'Julianne.OConner@kory.org'
+    name: 'Ada Wong',
+    username: 'AdaWon2',
+    email: 'ada_wong@ada.com'
   },
   {
     id: 5,
-    name: 'Chelsey Dietrich',
-    username: 'Kamren',
-    email: 'Lucio_Hettinger@annie.ca'
+    name: 'Barry Burton',
+    username: 'Jill_SandWitch',
+    email: 'jill_Sandwitch@coltPython.com'
   },
   {
     id: 6,
-    name: 'Mrs. Dennis Schulist',
-    username: 'Leopoldo_Corkery',
-    email: 'Karley_Dach@jasper.info'
+    name: 'Albert Wesker ',
+    username: 'Albert.Wesker',
+    email: 'godHimSelf@re5.net'
   },
   {
     id: 7,

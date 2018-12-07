@@ -1,31 +1,13 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import Card from './Card';
 import 'tachyons';
 import * as serviceWorker from './serviceWorker';
 import { robots } from './robots';
-let ranNum = Math.floor(Math.random() * 6);
-
-
-/*
-Array.prototype.shuffle = function(){
-    for(i = this.length-1; i > 0; i--){
-        let j = Math.floor(Math.random()*(i+1));
-        let temp = this[j];
-        this[j] = this[i];
-        this[i] = temp;
-    }
-    return this;
-}
-*/
+import CardList from './CardList';
 
 ReactDOM.render(
-    <div>
-        <Card id={ robots[ranNum].id } name={robots[ranNum].name } email={ robots[ranNum].email } />
-        <Card id={ robots[ranNum].id } name={ robots[ranNum].name } email={ robots[ranNum].email } />
-        <Card id={ robots[ranNum].id } name={ robots[ranNum].name } email={ robots[ranNum].email } />
-    </div>
+    <CardList robots={robots} />
 
 , document.getElementById('root'));
 

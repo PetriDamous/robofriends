@@ -4,6 +4,7 @@ import './index.css';
 import 'tachyons';
 import * as serviceWorker from './serviceWorker';
 import App from './App';
+import SearchBar from './SearchBar';
 
 
 ReactDOM.render(

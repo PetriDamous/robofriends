@@ -3,25 +3,25 @@ export const robots = [
     id: 1,
     name: 'Chris Redfield',
     username: 'my_mistake',
-    email: 'chris@starsBravo.net'
+    email: 'chris@starsBravo.rpd'
   },
   {
     id: 2,
     name: 'Jill Valentine',
-    username: 'jillV',
-    email: 'jillV@starsBravo.tv'
+    username: 'oh.no123',
+    email: 'jillV@starsBravo.rpd'
   },
   {
     id: 3,
     name: 'Leon S. Kennedy',
-    username: 'Leon2ken',
-    email: 'LeonS@RPD.gov'
+    username: 'adaaaaa!!!!!!',
+    email: 'LeonS@RPD.rpd'
   },
   {
     id: 4,
     name: 'Ada Wong',
     username: 'AdaWon2',
-    email: 'ada_wong@ada.com'
+    email: 'iOwnLeon@ada.com'
   },
   {
     id: 5,
@@ -32,31 +32,31 @@ export const robots = [
   {
     id: 6,
     name: 'Albert Wesker ',
-    username: 'Albert.Wesker',
+    username: 'what.a.masion',
     email: 'godHimSelf@re5.net'
   },
   {
     id: 7,
-    name: 'Kurtis Weissnat',
-    username: 'Elwyn.Skiles',
-    email: 'Telly.Hoeger@billy.biz'
+    name: 'Curtis Miller',
+    username: 'olderBrother',
+    email: 'puppet_of@WilPharma.net'
   },
   {
     id: 8,
-    name: 'Nicholas Runolfsdottir V',
-    username: 'Maxime_Nienow',
-    email: 'Sherwood@rosamond.me'
+    name: 'Ben Berutoritchi',
+    username: 'Get_That_Scum',
+    email: 'BenB_bigScoop@getThatScum.rc'
   },
   {
     id: 9,
-    name: 'Glenna Reichert',
-    username: 'Delphine',
-    email: 'Chaim_McDermott@dana.io'
+    name: 'Billy Coen',
+    username: 'fantasizingBoutMe',
+    email: 'Billy.Coen.civ@marines.mil'
   },
   {
     id: 10,
-    name: 'Clementina DuBuque',
-    username: 'Moriah.Stanton',
-    email: 'Rey.Padberg@karina.biz'
+    name: 'Claire Redfield',
+    username: 'Leon!!!',
+    email: 'a_GunInside@dontYouTrustMe.com'
   }
 ];
